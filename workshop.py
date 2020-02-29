@@ -10,12 +10,6 @@ def multiply(a,b):
 def divide(a,b):
     pass
 
-def square(a):
-    pass
-
-def cube(x):
-    pass
-
 def remainder(a,b):
     pass
 
